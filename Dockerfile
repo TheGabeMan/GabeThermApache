@@ -1,6 +1,6 @@
 # Steps to load mysqli modules and git and place the website
 # 
-FROM: openshift/php:7.0
+FROM openshift/php:7.0
 # FROM php:7.1-apache
 MAINTAINER Gabrie van Zanten <thegabeman@gmail.com>
 # Needed to be able to download other apt-get packages
